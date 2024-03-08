@@ -26,4 +26,3 @@ Aprendendo os comandos do GitHub
 ----------------------------------------------------
 
 📀 Git branch - O comando git branch é utilizado para listar, criar ou excluir branches (ramificações). Branches são úteis para desenvolver recursos isoladamente sem afetar o código principal.
-----------------------------------------------------
