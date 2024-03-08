@@ -1,7 +1,7 @@
 # PrimeiroCommit
 *Aprendendo os comandos do GitHub*
 
-**CÓDIGOS GIT**
+**> CÓDIGOS GIT**
 ----------------------------------------------------
 
 💻 Git init - Utilizado para criar um novo repositório Git em um diretório existente. Marca o início do rastreamento de alterações no projeto.
