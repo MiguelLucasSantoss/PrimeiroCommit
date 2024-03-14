@@ -1,6 +1,8 @@
 # PrimeiroCommit
 *Aprendendo os comandos do GitHub*
 
+![12917](https://github.com/MiguelLucasSantoss/PrimeiroCommit/assets/162701029/254787ea-6820-44e3-a6b5-86f9fd23e5df)
+
 **|> CÓDIGOS GIT <|**
 ----------------------------------------------------
 
